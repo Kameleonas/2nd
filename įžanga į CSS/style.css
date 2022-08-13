@@ -1,0 +1,20 @@
+body{
+    margin-left: 20px;
+    font-family: 'Roboto', sans-serif;
+    height: 95vh;
+}
+.blue{
+    color: rgb(83, 83, 241);
+}
+
+p{
+    font-size: 12px;
+}
+
+[name]{
+    color: rgb(75, 180, 43);
+}
+div{
+    width: 30vw;
+    height: 10vh;
+}
